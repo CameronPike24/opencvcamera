@@ -39,7 +39,7 @@ version = 0.1
 # (list) Application requirements
 # comma separated e.g. requirements = sqlite3,kivy
 #requirements = python3,kivy,kivymd,xcamera,opencv,pathlib,numpy,utils
-requirements = python3,kivy,android
+requirements = python3,kivy,android,logging,opencv
 
 
 # (str) Custom source folders for requirements
